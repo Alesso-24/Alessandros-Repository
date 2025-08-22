@@ -1,4 +1,4 @@
-# Plantilla de Documentación con MkDocs + Material
+# Plantilla de Documentación con MkDocs + Material.
 
 Formato de página web para documentar **proyectos** y **actividades de clase** usando **Markdown**.  
 Esta plantilla genera un sitio con **MkDocs** y el tema **Material**.
